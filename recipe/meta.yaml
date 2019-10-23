@@ -1,6 +1,6 @@
 package:
   name: ros-actionlib
-  version: 1.11.15
+  version: "1.12.0"
 
 source:
   url: https://github.com/ros/actionlib/archive/1.11.15.tar.gz
